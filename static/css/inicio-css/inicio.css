@@ -13,8 +13,6 @@ header{
     justify-content: space-between;
     align-items: center;
     background-image: url(/image/header.avif);
-    background-image: -webkit-image-set(
-        url('header-image.avif') type('image/avif'));
     box-shadow: 1px 1px 3px  black;
     position: fixed;
     top: 0;
